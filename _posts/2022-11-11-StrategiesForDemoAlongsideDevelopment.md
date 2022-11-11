@@ -4,8 +4,8 @@ date: 2022-11-11
 ---
 
 
-We need to work on particular features of the software and as we go 
-along have separate brances for demos. 
+There is a need to work on particular features of the software as it 
+progresses along and have separate brances for demos. 
 
 The software needs to be built in a way that features can be demoed 
 like a feature set library. We have one portal that on a single click 
