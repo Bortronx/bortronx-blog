@@ -9,6 +9,50 @@ date: 2022-11-08
 https://github.com/marketplace/actions/push-a-directory-to-another-repository
 - Go to Settings > Developer Settings in your profile and Create a Personal access token (Use Classic)
 - Create an Action in your original project and select Scope repo 
+
+``` 
+# This is a basic workflow to help you get started with Actions
+
+name: Push File
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  copy-file:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Runs a single command using the runners shell
+      - name: Push a directory to another repository
+        uses: datalbry/copy_folder_to_another_repo_action@1.0.1
+        env:
+         API_TOKEN_GITHUB: ${{ secrets.[GITHUB_TOKEN] }}
+        with:
+          source_folder: '_posts'
+          destination_repo: 'Bortronx/bortronx-blog'
+          destination_branch: 'main'
+          destination_folder: '_posts'
+          user_email: 'bortronx@gmail.com'
+          user_name: 'bortronx'
+          commit_msg: '[GHA] Update the posts.'
+```
 - Copy the Personal access token generated
 -  Go into original repo's Settings tab >  Secrets > Actions > New Repository secret.
 -  Paste Personal access token generated
