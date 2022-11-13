@@ -46,11 +46,11 @@ jobs:
          API_TOKEN_GITHUB: ${{ secrets.[GITHUB_TOKEN] }}
         with:
           source_folder: '_posts'
-          destination_repo: 'Bortronx/bortronx-blog'
+          destination_repo: 'Username/myrepo'
           destination_branch: 'main'
           destination_folder: '_posts'
-          user_email: 'bortronx@gmail.com'
-          user_name: 'bortronx'
+          user_email: 'example@email.com'
+          user_name: 'username'
           commit_msg: '[GHA] Update the posts.'
 ```
 - Copy the Personal access token generated
