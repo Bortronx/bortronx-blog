@@ -43,7 +43,7 @@ jobs:
       - name: Push a directory to another repository
         uses: datalbry/copy_folder_to_another_repo_action@1.0.1
         env:
-         API_TOKEN_GITHUB: ${{ secrets.[GITHUB_TOKEN] }}
+         API_TOKEN_GITHUB: ${{ secrets.[USER_SECRET] }}
         with:
           source_folder: '_posts'
           destination_repo: 'Username/myrepo'
