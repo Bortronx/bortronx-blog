@@ -1,0 +1,6 @@
+plugins:
+  - jekyll-feed
+theme: minima
+title: Bortronx
+author: Leonardo Guibert
+description: Technology and Spatial Computing
