@@ -20,12 +20,8 @@ on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
     branches: [ "main" ]
-    paths:
-      - '_posts/**'
   pull_request:
     branches: [ "main" ]
-    paths:
-      - '_posts/**'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -47,7 +43,7 @@ jobs:
       - name: Push a directory to another repository
         uses: datalbry/copy_folder_to_another_repo_action@1.0.1
         env:
-         API_TOKEN_GITHUB: ${{ secrets.[USER_SECRET] }}
+         API_TOKEN_GITHUB: ${{ secrets.[GITHUB_TOKEN] }}
         with:
           source_folder: '_posts'
           destination_repo: 'Username/myrepo'
@@ -57,11 +53,9 @@ jobs:
           user_name: 'username'
           commit_msg: '[GHA] Update the posts.'
 ```
-- In the script above replace the email, usernmae and repo path with your particular information.
-- Copy the Personal access token generated in your account under Settings > DeveloperSettings > PersonalAccessTokens > Tokens ( I did a classic token as my website's token should not expire in a long time as I do not want to keep coming back to renew it) 
--  Copy the secret generated when creating the token. 
--  Go into original repo's Settings tab >  Secrets and variables > Actions > New Repository secret.
+- Copy the Personal access token generated
+-  Go into original repo's Settings tab >  Secrets > Actions > New Repository secret.
 -  Paste Personal access token generated
 -  Give it a name and copy the name
--  Paste the name into USER_SECRET in the yaml Action configuration file in the line secret.USER_SECRET
-- Create posts into the _posts-private folder and when ready to make public change the path of the file into the posts folder
+-  Paste the name into GITHUB_TOKEN in the yaml Action configuration file in the line secret.GITHUB_TOKEN
+- Create posts into the _posts-private folder and when ready to make public push into posts folder

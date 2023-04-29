@@ -17,4 +17,6 @@ Next I'm testing the CPU by using Prime.
 Using prime seems to consistently cause a crash. I tried to isolate it with just the memory test and it crashed the computer.
 
 
-Next is the CPU only test. I will run CPU only test using Prime
+Next is the CPU only test. I ran CPU only test using Prime. It also crash.
+
+Next is a GPU test once again.
