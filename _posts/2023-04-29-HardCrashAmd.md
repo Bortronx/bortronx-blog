@@ -14,9 +14,11 @@ This leads me to belive that there is no problem with the Memory
 I am able to run intesive GPU tasks like video games and even benchmarks without crash.
 
 Next I'm testing the CPU by using Prime.
-Using prime seems to consistently cause a crash. I tried to isolate it with just the memory test and it crashed the computer.
+Using prime seems to consistently cause a crash. I tried to isolate it with just the memory test and it crashed the computer in less than 5 minutes
 
 
-Next is the CPU only test. I ran CPU only test using Prime. It also crash.
+Next is the CPU only test. I ran CPU only test using Prime. It also crash very fast in less than 5 minutes.
 
-Next is a GPU test once again.
+Next is a GPU test once again. The test ran for 45 minutes with no crash.
+
+Next I ran Prime95 again to ensure that these 45 minutes are not a result of something else.
