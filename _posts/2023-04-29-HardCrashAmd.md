@@ -28,3 +28,5 @@ The Computer crashed in less than 10 seconds.
 With this information we can isolate the problem to the Motherboard, Hard Drive, CPU, or Memory. With CPU being the most likely culprit.
 
 Next I will update BIOS drivers.
+
+I installed the Asrock Auto Driver. This updated the Chipset Driver, the VGA Driver and the HD Audio drive. The installer prompted to Setul Auto driver installer in the BIOS 
