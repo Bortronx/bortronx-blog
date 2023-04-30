@@ -22,3 +22,9 @@ Next is the CPU only test. I ran CPU only test using Prime. It also crash very f
 Next is a GPU test once again. The test ran for 45 minutes with no crash.
 
 Next I ran Prime95 again to ensure that these 45 minutes are not a result of something else.
+
+The Computer crashed in less than 10 seconds.
+
+With this information we can isolate the problem to the Motherboard, Hard Drive, CPU, or Memory. With CPU being the most likely culprit.
+
+Next I will update BIOS drivers.
