@@ -30,3 +30,7 @@ With this information we can isolate the problem to the Motherboard, Hard Drive,
 Next I will update BIOS drivers.
 
 I installed the Asrock Auto Driver. This updated the Chipset Driver, the VGA Driver and the HD Audio drive. The installer prompted to Setul Auto driver installer in the BIOS 
+
+Tested with s different power supply and received the same error.
+
+This last test reduces the problem to either the CPU, the drive windows installation.
