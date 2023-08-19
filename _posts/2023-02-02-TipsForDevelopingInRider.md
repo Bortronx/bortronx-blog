@@ -9,7 +9,7 @@ date: 2023-02-02
 
 In rider change from **Development Editor | Win64** to **DebugGame Editor | Win64**. See the image below.
 
-<img width="167" alt="image" src="blob:https://photos.onedrive.com/62060b45-2ea1-4562-b897-7ac169e7ce57">
+<img width="167" alt="image" src="https://onedrive.live.com/embed?resid=E87B3A3E0BB00F13%21115742&authkey=%21ADd-qwY6agdXf24&width=333&height=42">
 
 
 ### Soft Wrap every file in Rider:
