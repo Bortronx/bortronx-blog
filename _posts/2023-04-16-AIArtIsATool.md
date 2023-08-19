@@ -1,5 +1,5 @@
 ---
-title: "Developing Tools in Maya"
+title: "AI Art Tools"
 date: 2023-04-16
 ---
 
