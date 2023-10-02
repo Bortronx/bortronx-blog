@@ -33,3 +33,6 @@ git pull
 read -p "Press any key to continue..."
 
 ```
+
+Saved this as a .sh file.
+I run it whenever I need to update the clone.
