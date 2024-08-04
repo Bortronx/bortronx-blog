@@ -33,7 +33,7 @@ Setup Developer Mode on the Meta Quest
 Cast View on A local window
 
 
-Download scrcpy.exe at https://github.com/Genymobile/scrcpy
+Download scrcpy.exe at [https://github.com/Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
 
 
 // Check that device is connected
