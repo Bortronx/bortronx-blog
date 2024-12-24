@@ -15,8 +15,9 @@ This is by far the biggest. If you have to be constantly adjusting the headset t
 
 **Includes**
 - Light Weight
-- Must be wireless. Cables are a big source of discomfort. A cable that doesn't interfere with movement like one from the headset to your shoulders should be okay. Like the following example but bigger is acceptable: ![image](https://github.com/user-attachments/assets/64e1e044-8b1f-4b66-933c-04972429b5b5)
-
+- Must be wireless. Cables are a big source of discomfort. A cable that doesn't interfere with movement like one from the headset to your shoulders should be okay. 
+  - Like the following example but bigger is acceptable:
+  - <img src="https://github.com/user-attachments/assets/64e1e044-8b1f-4b66-933c-04972429b5b5" alt="Sample Image" style="width:10%; height:auto;">
 - Sweat and stain ready/resistant material. Think sweat, makeup or face creams
 - Easy to show to other people. (Should have a mode or an attachment that makes it easy to show others with great comfort)
 - It doesn't move around when active. It doesn't fall of when you jump too much and stays in the right place.
