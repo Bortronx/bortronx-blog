@@ -13,7 +13,7 @@ VR/AR is best when it has a large userbase. While the ideal version can replacea
 ## Comfort
 This is by far the biggest. If you have to be constantly adjusting the headset to make it land just right on your head or it feels too heavy or takes too long to put on the head it going to be hard for people to get through this struggle. A company needs to focus on comfort as a first class feature or even the main feature of the headset. Even lighter than 185 if possible. Comfort is a major factor. There needs to be a company out there that will take comfort as their number 1 priority. We need a headset with the optics of the quest 3 but significantly more comfortable and lighter weight 
 
-### Includes
+**Includes**
 - Light Weight
 - Must be wireless. Cables are a big source of discomfort.
 - Sweat and stain ready/resistant material. Think sweat, makeup or face creams
