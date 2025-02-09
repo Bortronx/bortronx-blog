@@ -34,7 +34,7 @@ Ongoing update of all
 - [ ] Showcase Immersed
 - [ ] Showcase Fluid
 - Install Samples
-    -[ ] Install TableTop Sample (Unity)
+    - [ ] Install TableTop Sample (Unity)
 - Install Android Apps
   - [ ]  Nomachine
   - [ ]  Brave Browser
