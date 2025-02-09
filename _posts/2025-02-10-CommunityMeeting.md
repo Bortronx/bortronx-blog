@@ -24,10 +24,10 @@ The latests news for the community
 
 # Ongoing
 
-## Overview of latest community apps. Opportunity to get feedback on your existing apps
+### Overview of latest community apps. Opportunity to get feedback on your existing apps
 New headsets are ready to be sideloaded. Tell us what apps you will like to try.
 
-## Overview of latest productivity apps and samples
+### Overview of latest productivity apps and samples
 Ongoing update of all 
 - [ ] Showcase VertexForm3d
 - [ ] Showcase Layouts
@@ -45,5 +45,5 @@ Ongoing update of all
 
 # Unique Announcements
 
-##  New Streaming Setup for Sharing VR Experiences with remote participants
+###  New Streaming Setup for Sharing VR Experiences with remote participants
 New headsets will directly send video to laptop
