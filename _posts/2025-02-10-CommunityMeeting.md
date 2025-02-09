@@ -20,9 +20,11 @@ The latests news for the community
 - https://vertexform3d.com/ - Try it out
 
 
+
+
 # Ongoing
 
-## Overview of latest community apps.Opportunity to get feedback on your existing apps
+## Overview of latest community apps. Opportunity to get feedback on your existing apps
 New headsets are ready to be sideloaded. Tell us what apps you will like to try.
 
 ## Overview of latest productivity apps and samples
@@ -37,6 +39,9 @@ Ongoing update of all
   - [ ]  Nomachine
   - [ ]  Brave Browser
   - [ ]  
+
+
+
 
 # Unique Announcements
 
