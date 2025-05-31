@@ -20,7 +20,7 @@ dotnet run commandfile8917.cs
 del commandfile8917.cs
 exit /b 0  
 
-:: ==== Everything below this line will go into test.cs ==== ::
+:: ==== Everything below this line will go into commandfile8917.cs ==== ::
 ```
 
 If you add this at the beginning of any C# file you will bea able to rename the file to .bat and execute it 
@@ -35,7 +35,7 @@ dotnet run commandfile8917.cs
 del commandfile8917.cs
 exit /b 0  
 
-:: ==== Everything below this line will go into test.cs ==== ::
+:: ==== Everything below this line will go into commandfile8917.cs ==== ::
 
 Console.WriteLine("Hello, World!"); // Prints "Hello, World!" to the console.
 Console.ReadKey();
