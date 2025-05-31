@@ -41,6 +41,8 @@ Console.WriteLine("Hello, World!"); // Prints "Hello, World!" to the console.
 Console.ReadKey();
 ```
 
+Renam this .cs file into a .bat file and double click to run.
+
 The file uses the file name ``commandfile8917.cs`` for the temporary name to avoid conflict as is highly unlikely that there would be another file name this exact same way. But the file name will need to be changed if there is.
 
 # Advantages
