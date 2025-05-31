@@ -46,4 +46,4 @@ Renam this .cs file into a .bat file and double click to run.
 The file uses the file name ``commandfile8917.cs`` for the temporary name to avoid conflict as is highly unlikely that there would be another file name this exact same way. But the file name will need to be changed if there is.
 
 # Advantages
-This allows you to now write all scripts using C# instead of powershell of batch commands
+This allows you to now write all scripts using C# instead of powershell or batch commands
