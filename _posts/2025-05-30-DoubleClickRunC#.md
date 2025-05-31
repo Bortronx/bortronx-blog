@@ -1,5 +1,5 @@
 ---
-title: "Double Click To Execute C# using Batch"
+title: "Double Click To Execute C# Using Batch"
 date: 2025-05-30
 ---
 
