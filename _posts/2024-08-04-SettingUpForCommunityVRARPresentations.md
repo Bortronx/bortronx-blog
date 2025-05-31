@@ -3,9 +3,6 @@ title: "Setting Up For Community VRAR Presentations"
 date: 2024-08-04
 ---
 
-## Recording Meeting
-- Launch OBS Studio in Presenter Computer
-- Make sure that you have two screens on for recording
 
 ## Desktop Installation
 - Plug power cable
