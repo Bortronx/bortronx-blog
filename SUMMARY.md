@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Bortronx Blog](README.md)
+* [Spatial Computing Journey](index.md)
+* [\_posts](_posts/README.md)
+  * [Setting Up Github Blog with Private Repo](_posts/2022-11-08-SetupGithubBlogWithPrivateRepo.md)
+  * [Strategies for maintaining a series of Demo while developing](_posts/2022-11-11-StrategiesForDemoAlongsideDevelopment.md)
+  * [Multiple Technologies Converge In The Metaverse Concept](_posts/2023-01-13-MultipleTechnologiesConvergeInTheMetaverseConcept.md)
+  * [Some tips for Developing in Rider (Mainly using C++ for Unreal)](_posts/2023-02-02-TipsForDevelopingInRider.md)
+  * [Realtime 3D Engine Comparison](_posts/2023-02-21-EngineComparison.md)
+  * [Create Clusters with MEL and Python in Maya](_posts/2023-03-29-CreateClustersFromCurveInMaya.md)
+  * [What is AI Art](_posts/2023-04-16-AIArtIsATool.md)
+  * [Hard Crashes with AMD CPU](_posts/2023-04-29-HardCrashAmd.md)
+  * [Sync a Git Clone with the source repository](_posts/2023-10-01-SyncGitClone.md)
+  * [Requirements For The Ideal VR Headset in Order of Priority](_posts/2023-12-26-WhatTheIdealHeadsetNeeds.md)
+  * [Setting Up For Community VRAR Presentations](_posts/2024-08-04-SettingUpForCommunityVRARPresentations.md)
+  * [Community Meeting 2025-02-10](_posts/2025-02-10-CommunityMeeting.md)
+  * [Double Click To Execute C# Using Batch](_posts/2025-05-30-DoubleClickRunC#.md)
